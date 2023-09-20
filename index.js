@@ -1,5 +1,5 @@
 function laCajaDePandora(numero){
 // proximamente escribiremos codigo aqui
 
-return numero + numero + 3;
+return numero + numero + 4;
 }
